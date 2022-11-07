@@ -30,5 +30,6 @@ Then, the feature map is flattened and two *Dense* layers composed by 512 and 4 
 
 ## Results
 The final accuracy obtained is 78,14%.
-![results](https://user-images.githubusercontent.com/22591922/200356673-bb4f1399-b7ab-498e-91c8-98a76d19b6ca.png)
-
+<p align="center">
+<img height="200" src="https://user-images.githubusercontent.com/22591922/200357030-a436d073-56c3-4e4a-86bd-afdb58802365.png">
+</p>
