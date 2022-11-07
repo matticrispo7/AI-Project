@@ -7,7 +7,7 @@ The objective of the project is to build a CNN model with subsequent training ph
 3. Normal
 4. Viral Pneumonia
 <p align="center">
-<img height="200" src="https://user-images.githubusercontent.com/22591922/200346692-b36b14b0-706b-470f-b4b8-e66fbab93094.png">
+<img height="80" src="https://user-images.githubusercontent.com/22591922/200346692-b36b14b0-706b-470f-b4b8-e66fbab93094.png">
 </p>
 
 ## Dataset
@@ -23,7 +23,6 @@ An example of the application of this technique on a sample of COVID-19 is shown
 The CNN is composed by several *convolutional* layers followed by *pooling* ones.
 Then, the feature map is flattened and two *Dense* layers composed by 512 and 4 respectively are added with a *Dropout* layer in between.
 
-![CNN]()
 <p align="center">
-<img height="250" src="https://user-images.githubusercontent.com/22591922/200343426-da4b05b1-4f5d-4d6f-9ea3-882445e67511.png">
+<img height="300" src="https://user-images.githubusercontent.com/22591922/200343426-da4b05b1-4f5d-4d6f-9ea3-882445e67511.png">
 </p>
