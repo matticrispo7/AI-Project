@@ -27,14 +27,8 @@ Then, the feature map is flattened and two *Dense* layers composed by 512 and 4 
 <img height="300" src="https://user-images.githubusercontent.com/22591922/200343426-da4b05b1-4f5d-4d6f-9ea3-882445e67511.png">
 </p>
 
-https://user-images.githubusercontent.com/22591922/200355366-5ce547b9-664b-4a66-8e2c-397d0bb95101.png acc
-https://user-images.githubusercontent.com/22591922/200355287-d404606b-0230-4c6d-97cc-edc85344d8bd.png loss
 
 ## Results
-<p float="left" align="middle">
-  <img src="https://user-images.githubusercontent.com/22591922/200355287-d404606b-0230-4c6d-97cc-edc85344d8bd.png" width="200" />
-  <em>Loss</em>
-  <img src="https://user-images.githubusercontent.com/22591922/200355366-5ce547b9-664b-4a66-8e2c-397d0bb95101.png" width="200" /> 
-    <em>Accuracy</em>
-</p>
+The final accuracy obtained is 78,14%.
+![results](https://user-images.githubusercontent.com/22591922/200356673-bb4f1399-b7ab-498e-91c8-98a76d19b6ca.png)
 
