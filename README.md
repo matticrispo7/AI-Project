@@ -16,7 +16,7 @@ To balance the dataset, 1000 samples per class were chosen.<br />
 Since some classes had fewer samples than required, the data augmentation technique with 15 transformations per sample was applied.<br />
 An example of the application of this technique on a sample of COVID-19 is shown below.
 <p align="center">
-<img height="250" src="https://user-images.githubusercontent.com/22591922/200353069-22301420-553c-4934-b0d0-c5539136d5fa.png">
+<img height="150" src="https://user-images.githubusercontent.com/22591922/200353069-22301420-553c-4934-b0d0-c5539136d5fa.png">
 </p>
 
 ## CNN structure
