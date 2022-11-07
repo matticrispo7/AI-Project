@@ -1,8 +1,16 @@
 # CNN for classification of COVID-19 pneumonia
 The objective of the project is to build a CNN model with subsequent training phase, validation and comparison of the results with some pretrained network models on which fine tuning is performed.
-The dataset and training set can be found [here] (https://www.kaggle.com/darshan1504/covid19-detection-xray-dataset)
 
-## Classes 
+## 
+1. Bacterial Pneumonia
+2. COVID-19
+3. Normal
+4. Viral Pneumonia
+![classesHorizontal](https://user-images.githubusercontent.com/22591922/200346692-b36b14b0-706b-470f-b4b8-e66fbab93094.png)
+
+## Dataset
+The dataset and the training set can be found [here](https://www.kaggle.com/datasets/darshan1504/covid19-detection-xray-dataset).
+An example of the 
 
 
 ## CNN structure
