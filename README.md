@@ -31,8 +31,10 @@ https://user-images.githubusercontent.com/22591922/200355366-5ce547b9-664b-4a66-
 https://user-images.githubusercontent.com/22591922/200355287-d404606b-0230-4c6d-97cc-edc85344d8bd.png loss
 
 ## Results
-\begin{figure}[H]
-    \centering
-    \subfloat[\centering Loss]{{\includegraphics[width=5cm]{https://user-images.githubusercontent.com/22591922/200355287-d404606b-0230-4c6d-97cc-edc85344d8bd.png} }}%
-    \subfloat[\centering Accuracy ]{{\includegraphics[width=5cm]{https://user-images.githubusercontent.com/22591922/200355366-5ce547b9-664b-4a66-8e2c-397d0bb95101.png} }}%
-\end{figure}
+<p float="left" align="middle">
+  <img src="https://user-images.githubusercontent.com/22591922/200355287-d404606b-0230-4c6d-97cc-edc85344d8bd.png" width="200" />
+  <em>Loss</em>
+  <img src="https://user-images.githubusercontent.com/22591922/200355366-5ce547b9-664b-4a66-8e2c-397d0bb95101.png" width="200" /> 
+    <em>Accuracy</em>
+</p>
+
