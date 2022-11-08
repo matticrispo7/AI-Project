@@ -1,4 +1,8 @@
 # CNN for classification of COVID-19 pneumonia
+# Information
+This is a master's degree project of Artificial Intelligence developed in 2021.
+
+# Goal
 The objective of the project is to build a CNN model with subsequent training phase, validation and comparison of the results with some pretrained network models on which fine tuning is performed.<br />
 More details can be found in the documentation provided.
 
@@ -7,7 +11,7 @@ The classes the network has to detect are the following:
 1. Bacterial Pneumonia
 2. COVID-19
 3. Normal
-4. Viral Pneumonia
+4. Viral Pneumonia <br />
 An example of these (respectively from left to right) are provided in the figure below.
 <p align="center">
 <img height="100" src="https://user-images.githubusercontent.com/22591922/200346692-b36b14b0-706b-470f-b4b8-e66fbab93094.png">
