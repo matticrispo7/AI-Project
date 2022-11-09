@@ -1,5 +1,4 @@
 # CNN for classification of COVID-19 pneumonia
-# Information
 This is a master's degree project of Artificial Intelligence developed in 2021.
 
 # Goal
